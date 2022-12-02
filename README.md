@@ -8,3 +8,4 @@
 ## Faire un commit
 ### git commit -m "First commit"
 
+Ajouter un fichier `.gitignore`
