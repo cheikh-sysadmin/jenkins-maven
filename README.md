@@ -1,10 +1,10 @@
-#Initiation aux commandes Git
-##Initialisation d'un dépot local :
-###git init
+# Initiation aux commandes Git
+## Initialisation d'un dépot local :
+### git init
 
-##Staging
-###git add .
+## Staging
+### git add .
 
-##Faire un commit
-###git commit -m "First commit"
+## Faire un commit
+### git commit -m "First commit"
 
